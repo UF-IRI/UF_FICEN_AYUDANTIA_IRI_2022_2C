@@ -12,14 +12,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DEMO_DEBUG", "EJEMPLO_PROYE
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UNIT_PROYECTO", "EJEMPLO_PROYECTO_+_UNIT_TEST\UNIT_PROYECTO\UNIT_PROYECTO.vcxproj", "{B3E6B684-7452-49E9-9E6D-88589E41FF2E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EJEMPLOS_GENERALES", "EJEMPLOS_GENERALES", "{D3A286A6-1B21-4F09-8A13-9BD7BCED735A}"
-	ProjectSection(SolutionItems) = preProject
-		EJEMPLOS\ejemplo_numeros.c = EJEMPLOS\ejemplo_numeros.c
-		EJEMPLOS\ejemplo_strings.c = EJEMPLOS\ejemplo_strings.c
-		EJEMPLOS\memoria_dinamica.cpp = EJEMPLOS\memoria_dinamica.cpp
-		EJEMPLOS\punteros.cpp = EJEMPLOS\punteros.cpp
-	EndProjectSection
-EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
