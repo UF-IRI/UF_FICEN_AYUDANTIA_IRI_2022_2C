@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EJEMPLO_PROYECTO_+_UNIT_TEST", "EJEMPLO_PROYECTO_+_UNIT_TEST", "{0BDC11DE-C5AA-43C7-8F04-FB4A4740E45D}"
+	ProjectSection(SolutionItems) = preProject
+		EJEMPLO_PROYECTO_+_UNIT_TEST\información_importante.txt = EJEMPLO_PROYECTO_+_UNIT_TEST\información_importante.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DEMO_DEBUG", "EJEMPLO_PROYECTO_+_UNIT_TEST\DEMO_DEBUG\DEMO_DEBUG.vcxproj", "{C04B4484-ADF6-4826-BC6A-8D5B765745C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UNIT_PROYECTO", "EJEMPLO_PROYECTO_+_UNIT_TEST\UNIT_PROYECTO\UNIT_PROYECTO.vcxproj", "{B3E6B684-7452-49E9-9E6D-88589E41FF2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EJEMPLOS_GENERALES", "EJEMPLOS_GENERALES", "{D3A286A6-1B21-4F09-8A13-9BD7BCED735A}"
+	ProjectSection(SolutionItems) = preProject
+		EJEMPLOS\ejemplo_numeros.c = EJEMPLOS\ejemplo_numeros.c
+		EJEMPLOS\ejemplo_strings.c = EJEMPLOS\ejemplo_strings.c
+		EJEMPLOS\memoria_dinamica.cpp = EJEMPLOS\memoria_dinamica.cpp
+		EJEMPLOS\punteros.cpp = EJEMPLOS\punteros.cpp
+	EndProjectSection
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Debug|x64.ActiveCfg = Debug|x64
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Debug|x64.Build.0 = Debug|x64
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Debug|x86.Build.0 = Debug|Win32
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Release|x64.ActiveCfg = Release|x64
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Release|x64.Build.0 = Release|x64
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Release|x86.ActiveCfg = Release|Win32
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9}.Release|x86.Build.0 = Release|Win32
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Debug|x64.ActiveCfg = Debug|x64
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Debug|x64.Build.0 = Debug|x64
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Debug|x86.Build.0 = Debug|Win32
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Release|x64.ActiveCfg = Release|x64
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Release|x64.Build.0 = Release|x64
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Release|x86.ActiveCfg = Release|Win32
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C04B4484-ADF6-4826-BC6A-8D5B765745C9} = {0BDC11DE-C5AA-43C7-8F04-FB4A4740E45D}
+		{B3E6B684-7452-49E9-9E6D-88589E41FF2E} = {0BDC11DE-C5AA-43C7-8F04-FB4A4740E45D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A14D2BA-DF88-4DE2-B17F-CE14396E8FD2}
+	EndGlobalSection
+EndGlobal
