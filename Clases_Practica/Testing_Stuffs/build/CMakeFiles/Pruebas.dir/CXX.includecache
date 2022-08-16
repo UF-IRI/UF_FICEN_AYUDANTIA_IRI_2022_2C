@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/UF_FICEN_AYUDANTIA_IRI_2022_2C/Clases_Practica/Testing_Stuffs/main.cpp
+algorithm
+-
+iostream
+-
+

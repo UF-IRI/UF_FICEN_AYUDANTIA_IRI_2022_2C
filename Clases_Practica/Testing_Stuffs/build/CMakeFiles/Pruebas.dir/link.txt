@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/Pruebas.dir/main.cpp.o  -o Pruebas 
