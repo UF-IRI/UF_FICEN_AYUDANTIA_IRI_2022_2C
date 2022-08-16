@@ -24,7 +24,7 @@ int main() {
     std::cout << "Ingrese un valor mayor a 5 e impar: ";
     do {
         std::cin >> n;
-        if(n > 5 && n % 2 == 1) goto done;git p
+        if(n > 5 && n % 2 == 1) goto done;
         std::cout << "Intente nuevamente, recuerde numero >= 5 e impar: ";
     } while (!(n > 5 && n % 2 == 1));
     done:;
