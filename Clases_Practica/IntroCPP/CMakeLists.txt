@@ -1,11 +1,7 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(IRI VERSION 2022.2.0)
+project(IntroCPP VERSION 0.1.0)
 
-option(BUILD_Practicas "Build IntroCPP" ON)
-
-if(BUILD_IntroCPP)
-    add_subdirectory(Clases_Practica)
-endif()
+add_executable(IntroCPP main.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
