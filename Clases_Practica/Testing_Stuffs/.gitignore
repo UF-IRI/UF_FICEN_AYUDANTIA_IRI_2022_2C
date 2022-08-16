@@ -9,6 +9,4 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-if(NOT EXISTS ${PROJECT_BINARY_DIR}/.gitignore)
-  file(WRITE ${PROJECT_BINARY_DIR}/.gitignore "*")
-endif()
+[Bb]uild/
