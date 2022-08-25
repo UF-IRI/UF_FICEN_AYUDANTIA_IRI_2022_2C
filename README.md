@@ -2,12 +2,16 @@
 
 ## Index
 - [WIKI IRI](#WIKI)
+- [Clase Practica](#CLASE_PRACTICA)
 - [Ejemplos](#EJEMPLOS)
 - [Guías](#GUIAS)
 
 ### WIKI
 ***En el Wiki podrán encontrar paginas y documentación recomendados para C y ejemplos de distintos temas***
 [Wiki IRI](https://gitlab.com/FICEN_Students/ayudantia-iri-2021/-/wikis/IRI-Wiki)
+
+### CLASE_PRACTICA
+[Clase Practica](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C/tree/Clase_Practica)
 
 ### GUIAS
 [Guías Resueltas](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C/tree/Guia_Ejercicios_Resueltos)
