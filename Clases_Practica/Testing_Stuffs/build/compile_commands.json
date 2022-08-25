@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/workspaces/UF_FICEN_AYUDANTIA_IRI_2022_2C/Clases_Practica/Testing_Stuffs/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/Pruebas.dir/main.cpp.o -c /workspaces/UF_FICEN_AYUDANTIA_IRI_2022_2C/Clases_Practica/Testing_Stuffs/main.cpp",
-  "file": "/workspaces/UF_FICEN_AYUDANTIA_IRI_2022_2C/Clases_Practica/Testing_Stuffs/main.cpp"
-}
-]
