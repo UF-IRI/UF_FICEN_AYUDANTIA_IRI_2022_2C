@@ -8,7 +8,7 @@
 
 ### WIKI
 ***En el Wiki podrán encontrar paginas y documentación recomendados para C y ejemplos de distintos temas***
-[Wiki IRI](https://gitlab.com/FICEN_Students/ayudantia-iri-2021/-/wikis/IRI-Wiki)
+[Wiki IRI](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C/wiki)
 
 ### CLASE_PRACTICA
 [Clase Practica](https://github.com/eastanganelli/UF_FICEN_AYUDANTIA_IRI_2022_2C/tree/Clase_Practica)
