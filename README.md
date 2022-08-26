@@ -11,3 +11,4 @@
 ---
 ## Tarea_Resuelta
 ### [Algoritmos Figuras](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras)
+  - [PDF Explicativo](Resolucion_Tarea\Tarea_III_Algoritmos_Figuras\Tarea_Algoritmos_Graficos.pdf)
