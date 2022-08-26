@@ -3,8 +3,11 @@
 # Clase - Practica
 
 ## Index
-- [Clase 9/Sep](#Clase_9/Sep)
+- [Clases](#Clases)
+- [Tareas Resueltas](#Tarea_Resuelta)
 
-## GUIAS
+## Clases
+### [9/Sep]()
 ---
-### [Clase_9/Sep]()
+## Tarea_Resuelta
+### [Algoritmos Figuras](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras)
