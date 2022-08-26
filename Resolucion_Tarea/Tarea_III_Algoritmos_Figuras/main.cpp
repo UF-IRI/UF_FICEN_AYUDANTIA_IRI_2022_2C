@@ -17,9 +17,10 @@ int main() {
     5       X      
     6         X    
     */
+    imprimir << "[ Comision 1 ] : Figura Algoritmica" << salto_linea;
 	para(entero i) = 0 hasta(i) 7 paso(i) 1 hacer
 		para(entero j) = 0 hasta(j) 7 paso(j) 1 hacer
-			si( ( i == 0 y_  j > 1 y_ j < 6) o_ ( i == 3 y_ j >0 ) o_ ( j == -i + 2 )  ) entonces
+			si( ( i == 0 y_  j > 1 y_ j < 6) o_ ( i == 3 y_ j >0 ) o_ ( j == -i + 2 ) o_ ( i - 2 == j ) ) entonces
 				imprimir << "X";
 			sino
 				imprimir << " ";
@@ -42,6 +43,7 @@ int main() {
     5           X   
     6             X  
     */
+    imprimir << salto_linea << "[ Comision 2 ] : Figura Algoritmica" << salto_linea;
 	para(entero i) = 0 hasta(i) 7 paso(i) 1 hacer
 		para(entero j) = 0 hasta(j) 9 paso(j) 1 hacer
 			si( ( i == j ) o_ ( i < 3 ) ) entonces
@@ -70,9 +72,10 @@ int main() {
     7 X X           X X
     8 X X X X X X X X X
     */
+    imprimir << salto_linea << "[ Comision 3 ] : Figura Algoritmica" << salto_linea;
 	para(entero i) = 0 hasta(i) 9 paso(i) 1 hacer
 		para(entero j) = 0 hasta(j) 9 paso(j) 1 hacer
-			si( ( i == j ) o_ ( i == -j ) o_ ( i == 0 o_ i == 8 ) o_ ( j == 0 o_ j == 8 ) ) entonces
+			si( ( i == j ) o_ ( -i + 8 == j ) o_ ( i == 0 o_ i == 8 ) o_ ( j == 0 o_ j == 8 ) ) entonces
 				imprimir << "X";
 			sino
 				imprimir << " ";
