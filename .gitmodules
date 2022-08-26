@@ -1,0 +1,3 @@
+[submodule "Resolucion_Tarea/Tarea_III_Algoritmos_Figuras/pseudo_libreria"]
+	path = Resolucion_Tarea/Tarea_III_Algoritmos_Figuras/pseudo_libreria
+	url = https://github.com/eastanganelli/PseudoCodigoWrapper.git
