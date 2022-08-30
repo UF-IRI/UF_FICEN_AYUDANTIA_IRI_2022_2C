@@ -15,4 +15,4 @@
 - ### [Algoritmos Figuras](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras) - [PDF Explicativo](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras/Tarea_Algoritmos_Graficos.pdf)
 ---
 ## Tutoriales
-- ### [Pseudo En CPP](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras) - [Readme Explicativo](Tutoriales/Tutorial_PseudoEnCpp/Tutorial.md)
+- ### [Pseudo En CPP](Tutoriales/Tutorial_PseudoEnCpp/) - [Readme Explicativo](Tutoriales/Tutorial_PseudoEnCpp/Tutorial.md)
