@@ -111,5 +111,3 @@ endif()
 - Ahora hacemos #include "PseudoCodeWrapper.hpp" en nuestro `main.cpp` o dónde tengamos la función `int main()`
 
 - Felicidades, añadiste de forma exitosa la libreria!!!<br>Ahora a PROGRAMAR 🥳🎉🥳🎉
-
-## En un futuro cercano, tendremos más cercania con CMake y sus utilidades.
