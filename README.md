@@ -4,12 +4,15 @@
 
 ## Index
 - [Clases](#Clases)
-- [Tareas Resueltas](#Tarea_Resuelta)
-
+- [Tareas Resueltas](#Tarea-Resuelta)
+- [Tutoriales](#Tutoriales)
+---
 ## Clases
 ### [26/Agosto](Clase_Practica/26_8) - [PDF](Clase_Practica/26_8/26_8.md)
 ### [09/Septiembre](Clase_Practica/9_9)
 ---
-## Tarea_Resuelta
-### [Algoritmos Figuras](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras)
-  - [PDF Explicativo](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras/Tarea_Algoritmos_Graficos.pdf)
+## Tarea Resuelta
+- ### [Algoritmos Figuras](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras) - [PDF Explicativo](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras/Tarea_Algoritmos_Graficos.pdf)
+---
+## Tutoriales
+- ### [Pseudo En CPP](Resolucion_Tarea/Tarea_III_Algoritmos_Figuras) - [Readme Explicativo](Tutoriales/Tutorial_PseudoEnCpp/Tutorial.md)
