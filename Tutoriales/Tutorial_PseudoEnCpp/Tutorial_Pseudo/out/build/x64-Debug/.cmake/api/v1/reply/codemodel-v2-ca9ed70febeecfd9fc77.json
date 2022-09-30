@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tutorial_Pseudo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Pseudo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Pseudo-Debug-c18cc74056e7ecfb62f7.json",
+					"name" : "Tutorial_Pseudo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ezequ/Documents/Favaloro/AYUDANTIA/IRI/AYDUANTIA_IRI_2022_PUBLICO/Tutoriales/Tutorial_PseudoEnCpp/Tutorial_Pseudo/out/build/x64-Debug",
+		"source" : "D:/ezequ/Documents/Favaloro/AYUDANTIA/IRI/AYDUANTIA_IRI_2022_PUBLICO/Tutoriales/Tutorial_PseudoEnCpp/Tutorial_Pseudo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
