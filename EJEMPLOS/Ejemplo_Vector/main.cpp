@@ -37,6 +37,12 @@ template<typename T> struct _Vector {
 	void add(int pos, T _value) {
 		// ...
 	}
+	void remove(T _value) {
+		// ...
+	}
+	void remove(int pos) {
+		// ...
+	}
 	/*
 	* Lectura de Valor
 	* ----------------
@@ -44,7 +50,7 @@ template<typename T> struct _Vector {
 	* Exception: Posición fuera del limite se cierra el programa.
 	*/
 	T& operator[](int pos) {
-		if (pos < 0 && (pos + 1) > this->_size) {
+		if (pos < 0 || (pos + 1) > this->_size) {
 			std::cout << "Array index out of bound, exiting";
 			exit(0);
 		}
@@ -96,6 +102,7 @@ template<typename T> struct _Vector {
 		if (_Array != nullptr) {
 			delete[] _Array;
 			_Array = nullptr;
+			this->_size = 0;
 		}
 	}
 };
