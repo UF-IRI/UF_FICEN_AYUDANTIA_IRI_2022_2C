@@ -1,0 +1,4 @@
+C:/Users/ezequ/Documents/IRI_AYUDANTIA/PUBLICO/Guia Memoria Dinamica/build/CMakeFiles/Guia_Memoria_Dinamica.dir
+C:/Users/ezequ/Documents/IRI_AYUDANTIA/PUBLICO/Guia Memoria Dinamica/build/CMakeFiles/PACKAGE.dir
+C:/Users/ezequ/Documents/IRI_AYUDANTIA/PUBLICO/Guia Memoria Dinamica/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ezequ/Documents/IRI_AYUDANTIA/PUBLICO/Guia Memoria Dinamica/build/CMakeFiles/ZERO_CHECK.dir
